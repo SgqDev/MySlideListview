@@ -41,9 +41,13 @@ public class MySlideListView extends ListView {
                         if (v.getScrollX()>0){
                             if (ev.getX()<v.getWidth()-v.getScrollX())
                                 return true;
+                            else
+                                v.close();
                         }else if (v.getScrollX()<0){
                             if (ev.getX()>-v.getScrollX())
                                 return true;
+                            else
+                                v.close();
                         }
                 }else {
                     return true;
