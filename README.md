@@ -140,4 +140,4 @@ public void addMyView(int ResId,String where,LayoutParams params){
 
 5.而ListView则是处理好拦截事件就行了。
 
-6.说不清道不明，看代码最好解决，[源代码在此](https://github.com/SamanLan/MySlideListview)，欢迎大家关注我的[Github](https://github.com/SamanLan)、Star。
+6.说不清道不明，看代码最好解决，[源代码在此](https://github.com/SamanLan/MySlideListview)，欢迎大家关注我的[Github](https://github.com/SamanLan)、Star和[博客](http://www.jianshu.com/users/25018a1e0b12/)。
