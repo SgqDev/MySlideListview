@@ -1,7 +1,10 @@
 学无止境，复习提高的最好办法就是撸代码，这一次写的是仿QQ的列表左滑，拓展了一点点，具体分为SlideView（可以上下左右滑动的ViewGroup）、和SlideListView（根据LIstView优化的可左右滑，处理了滑动冲突），用法相当简单（不信你看布局文件）。[源代码在此](https://github.com/SamanLan/MySlideListview)，欢迎大家关注我的[Github](https://github.com/SamanLan)、Star。
 效果图如下：
+
 ![可左滑右滑上滑下滑出现view](http://upload-images.jianshu.io/upload_images/1787089-8eec552be6e27344.gif?imageMogr2/auto-orient/strip)
+
 ![可左滑右滑出现view的listview](http://upload-images.jianshu.io/upload_images/1787089-a91edf801507186c.gif?imageMogr2/auto-orient/strip)
+
 
 代码有点长，这里不全部贴了，只说说主要思路
 1. 首先看布局
